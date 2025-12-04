@@ -1,4 +1,4 @@
-# 2D Multiplayer Godot Game
+# 2D Multiplayer Bullet Hell
 
 ## Overview
 
